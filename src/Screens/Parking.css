@@ -1,0 +1,8 @@
+.Parking{
+    display: grid;
+padding: 50px 50px ;  
+    width: 90%;
+    grid-template-columns: repeat(auto-fit,minmax(300px,1fr));
+    color: rgb(49, 49, 49);
+    gap: 20px 20px;
+}

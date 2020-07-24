@@ -1,0 +1,53 @@
+.Dashboard{
+    color: black;
+    display: grid;
+    width: 100%;
+    height: 100%;
+    grid-template-columns: 2fr 1fr;
+
+}
+.calltoaction{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.details{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:space-evenly;
+    
+    
+}
+.current{
+    margin: 10px;
+    height: 50%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: #dbdbdb;
+}
+.update{
+    height: 50%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: #dbdbdb;
+}
+.calltoaction button{
+    color: cornsilk;
+    border: 2px solid green;
+    height: 30px;
+    width: 20%;
+    background-color: rgb(151, 236, 67);
+}
+.calltoaction .leaveButton{
+    background-color: rgb(245, 88, 60);
+}
