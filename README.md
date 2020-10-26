@@ -11,7 +11,7 @@
 - setup nodejs and npm 
 - confgure arduino as per the circuit diagram
 
-[!](connection_ard.png)
+![](connection_ard.png)
 
 
 #### start the client -
